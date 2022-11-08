@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-do list project.
+# To-do list project review.
 
 > This is the javaScript project for Microverse. In this project, I built a simple to-do list useing HTML, CSS, javaScript and WebPack.
 
